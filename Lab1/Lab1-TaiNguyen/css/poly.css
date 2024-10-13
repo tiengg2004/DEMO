@@ -1,0 +1,43 @@
+/* Adding vibrant background colors to various sections */
+header {
+    background-color: #ff5733; /* Bright orange */
+    color: #ffffff; /* White */
+    padding: 10px;
+    text-align: center;
+}
+
+nav {
+    background-color: #33c1ff; /* Bright blue */
+    color: #ffffff; /* White */
+    padding: 10px;
+    text-align: center;
+}
+
+article {
+    background-color: #ffff33; /* Bright yellow */
+    color: #343a40; /* Dark grey */
+    padding: 20px;
+}
+
+aside {
+    background-color: #33ff57; /* Bright green */
+    color: #343a40; /* Dark grey */
+    padding: 20px;
+}
+
+footer {
+    background-color: #c700ff; /* Bright purple */
+    color: #ffffff; /* White */
+    padding: 10px;
+    text-align: center;
+}
+
+/* Additional styling for body and container */
+body {
+    background-color: #ffccff; /* Light pink background for the whole page */
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin-top: 20px;
+}
